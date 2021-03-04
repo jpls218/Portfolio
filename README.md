@@ -19,3 +19,7 @@ My portfolio
   ## Questions
   ​
   If you have any questions about the repo, open an issue or contact me directly at jpls218@gmail.com. You can find more of my work at [my github](https://github.com/jpls218/).
+
+  ## Screenshots
+
+  ![Screenshot](./public/images/Portfolio_Screenshot.jpeg)

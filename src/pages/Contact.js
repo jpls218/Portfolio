@@ -7,7 +7,7 @@ import Col from "../components/Col";
 function Contact() {
   return (
     <div>
-      <Hero backgroundImage="./images/IMG_6700.jpeg">
+      <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_6700.jpeg">
         <h1>Please Reach Out if You Have Any Questions</h1>
         <h2>Contact Information</h2>
       </Hero>
