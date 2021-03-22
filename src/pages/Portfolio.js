@@ -22,9 +22,9 @@ function Portfolio() {
           <a href="https://jpls218.github.io/WeatherReport/" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Link</button></a>
           </Col>
           <Col size="md-4">
-          <u>battleNodes</u>
+          <u>battleNodes (group project!)</u>
           <img className="img-thumbnail" src="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/battleNodes.jpeg" width="350" height="350" alt="battlenodes" />
-          <a href="https://github.com/jpls218/whos-your-data.git" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Github</button></a>
+          <a href="https://github.com/CastroAlejandro/whos-your-data.git" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Github</button></a>
           <a href="https://protected-beach-35913.herokuapp.com/" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Link</button></a>
           </Col>
           <Col size="md-4">
