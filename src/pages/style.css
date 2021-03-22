@@ -150,5 +150,81 @@ button {
 }
 
 p {
-    text-align: center;
+    text-align: center; 
 }
+
+#me {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -20px;
+}
+
+#button {
+    position: absolute;
+    z-index: 2;
+    padding: 5px;
+    margin: auto;
+    margin: 0;
+    position: absolute;
+    bottom: -240px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 175px;
+  }
+  #buttons {
+    position: absolute;
+    z-index: 3;
+    padding: 5px;
+    margin: auto;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+  }
+
+  #low_button {
+    position: absolute;
+    z-index: 2;
+    padding: 5px;
+    margin: auto;
+    margin: 0;
+    position: absolute;
+    bottom: -420px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 175px;
+  }
+
+  #github {
+    position: absolute;
+    margin-bottom: auto;
+    z-index: 2;
+    bottom: -120px;
+    left: 65px;
+  }
+
+  #link{
+    position: absolute;
+    margin-bottom: auto;
+    z-index: 2;
+    bottom: -120px;
+    right: 65px;
+  }
+  #lower {
+    position: absolute;
+    z-index: 1;
+    padding: 5px;
+    margin: auto;
+    margin: 0;
+    position: absolute;
+    bottom: -420px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 175px;
+  }

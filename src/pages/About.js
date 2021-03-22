@@ -17,13 +17,13 @@ function About() {
         
         <Row>
           <Col size="md-3">
-          <img className="img-thumbnail" src="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_3610.jpeg" width="275" height="275" alt="Person" />
+          <img id="me" className="img-thumbnail" src="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_3610.jpeg" width="275" height="275" alt="Person" />
           </Col>
           <Col size="md-9">
           <p className="text">My name is Jonathan Smith. I'm from Lakeland, FL and am working hard to become a web developer.
           I graduated with a BS degree in Biochemistry from Florida Southern College. I enjoy solving puzzles and am a great
           team member who works well with others. I want to take my experience from the UCF bootcamp that I am taking and use all of my newfound knowledge to pursue a career
-          in software development.    
+          in software development.  
           </p>
           <div class="skills">
             <div class="skill-bars">
