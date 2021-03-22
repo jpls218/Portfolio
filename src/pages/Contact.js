@@ -17,9 +17,9 @@ function Contact() {
         <Row>
           <Col size="md-12">
           <p>Email: <a href="mailto:jpls218@gmail.com">jpls218@gmail.com</a></p>
-          <p>Linkedin: <a href="https://www.linkedin.com/in/jonathan-smith-9498781ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfhtgPGeeQWqb2qLmP0iWPA%3D%3D" target="_blank">www.linkedin.com/in/jonathan-smith-9498781ba</a></p>
-          <p>GitHub: <a href="https://github.com/jpls218" target="_blank">https://github.com/jpls218</a></p>
-          <p>Resume: <a href="https://docs.google.com/document/d/1X9ed0KUQTyIMgMSM8eodq-i9QC9-AJBn3UlyKYjr2oY/edit?usp=sharing">Here</a></p>
+          <p>Linkedin: <a href="https://www.linkedin.com/in/jonathan-smith-9498781ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfhtgPGeeQWqb2qLmP0iWPA%3D%3D" target="_blank" rel="noreferrer">www.linkedin.com/in/jonathan-smith-9498781ba</a></p>
+          <p>GitHub: <a href="https://github.com/jpls218" target="_blank" rel="noreferrer">https://github.com/jpls218</a></p>
+          <p>Resume: <a href="https://docs.google.com/document/d/1X9ed0KUQTyIMgMSM8eodq-i9QC9-AJBn3UlyKYjr2oY/edit?usp=sharing" target="_blank" rel="noreferrer">Here</a></p>
            
           </Col>
         </Row>
