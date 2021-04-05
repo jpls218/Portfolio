@@ -4,11 +4,13 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import "./style.css";
+import Background from "../components/Background";
 
 
 function About() {
   return (
     <div>
+        <Background />
       <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_6700.jpeg">
         <h1>Welcome!</h1>
         <h2>Here's a Little Info About Me!</h2>
@@ -80,6 +82,7 @@ function About() {
           </Col>
         </Row>
       </Container>
+      
     </div>
   );
 }

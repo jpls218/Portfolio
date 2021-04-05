@@ -4,11 +4,13 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import "./style.css";
+import Background from "../components/Background";
 
 
 function Portfolio() {
   return (
     <div>
+      <Background />
       <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_6700.jpeg">
         <h1>My Portfolio</h1>
         <h2>Take a Look at Some of my Projects!</h2>
