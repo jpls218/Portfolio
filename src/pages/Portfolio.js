@@ -20,7 +20,7 @@ function Portfolio() {
       
         <Row>
           <Col size="md-4">
-          <u>Weather Dashboard</u>
+          <u>Weather Dashboard</u> 
           <img id="pic" className="img-thumbnail" src="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/Weather_Dashboard.jpeg" width="350" height="350" alt="weather" />
           <a id="links" href="https://github.com/jpls218/WeatherReport.git" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Github</button></a>
           <a id="links" href="https://jpls218.github.io/WeatherReport/" target="_blank" rel="noreferrer"><button type="button" className="btn btn-primary">Link</button></a>
