@@ -9,6 +9,7 @@ import Background from "../components/Background";
 
 function Portfolio() {
   return (
+    
     <div>
       <Background />
       <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/main/public/images/IMG_6700.jpeg">
@@ -58,6 +59,7 @@ function Portfolio() {
           </Col>
         </Row>
       </Container>
+      
     </div>
   );
 }
