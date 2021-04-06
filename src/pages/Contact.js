@@ -10,7 +10,7 @@ function Contact() {
   return (
     <div>
       <Background />
-      <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/main/images/IMG_6700.jpeg">
+      <Hero backgroundImage="https://raw.githubusercontent.com/jpls218/Portfolio/public/images/IMG_6700.jpeg">
         <h1>Please Reach Out if You Have Any Questions</h1>
         <h2>Contact Information</h2>
       </Hero>
