@@ -1,7 +1,7 @@
 {
   "name": "Portfolio",
   "version": "0.1.0",
-  "homepage": "https://jpls218.github.io/Portfolio/",
+  "homepage": "https://jpls218.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
