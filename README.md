@@ -6,4 +6,4 @@ This is a collection of some of the projects that I have completed along with co
 
 ## Screenshots
 Below is a screenshot of the app:
-![screenshot](./images/Portfolio_Screenshot.jpeg)
+![screenshot](./public/images/Portfolio_Screenshot.jpeg)
